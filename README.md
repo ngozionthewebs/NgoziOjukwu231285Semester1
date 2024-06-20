@@ -2,7 +2,8 @@
  
 [Ngozi Ojukwu 231285 Semester1.pdf](https://github.com/user-attachments/files/15915607/Ngozi.Ojukwu.231285.Semester1.pdf)
 
-SoundSphere
+# SoundSphere
+
 # Presentation Video
 https://drive.google.com/file/d/1t74XgX8RoSQ2V97YMqVuQIWd99usZ8eR/view?usp=sharing
 
